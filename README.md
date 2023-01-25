@@ -144,7 +144,7 @@ The town covers an area of 20.59 sq.km.[1] Though a landlocked district, fossils
 <p align="justify">
 <font face="Courier New" size="5">
 <body>
-	Originally, the term 'stationery' referred to all products sold by a stationer, whose name indicated that his book shop was on a fixed spot. This was usually somewhere near a university, and permanent, while medieval trading was mainly carried on by itinerant peddlers (including chapmen, who sold books) and others (such as farmers and craftsmen) at markets and fairs. It was a unique term used between the 13th and 15th centuries in the manuscript culture. Stationers' shops were places where books were bound, copied, and published. These shops often loaned books to nearby university students for a fee.
+	Originally, the term 'stationery' referred to all products sold by a stationer, whose name indicated that his book shop was on a fixed spot. This was usually somewhere near a university, and permanent, while medieval trading was mainly carried on by itinerant peddlers (including chapmen, who sold books) and others (such as farmers and craftsmen) at markets and fairs.It was a unique term used between the 13th and 15th centuries in the manuscript culture. Stationers' shops were places where books were bound, copied, and published. These shops often loaned books to nearby university students for a fee.
 </body>
 </html>
 ```
