@@ -138,7 +138,7 @@ The town covers an area of 20.59 sq.km.[1] Though a landlocked district, fossils
 <body bgcolor="PeachPuff">
 <h1 align="center">
 	<font color="tomato">
-		<b>Stationary</b>
+	<b>Stationary</b>
 	</font>
 	<hr size="2" color="red">
 <p align="justify">
