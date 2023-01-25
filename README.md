@@ -59,7 +59,7 @@ Run the django server and execute the HTML files
 <p align="justify">
 <font face="Courier New" size="5">
 <body>
-	Perambalur is a town in the Indian state of Tamil Nadu. It is the headquarters of Perambalur district and Perambalur taluk (sub-district). As of 2011 census, the town had a population of 49,648.
+	Perambalur is a town in the Indian state of Tamil Nadu. It is the headquarters of Perambalur district and Perambalur taluk (sub-district).As of 2011 census, the town had a population of 49,648.
 
 There are a set of 11th century Buddha statues around the villages of Perambalur called Perambalur Buddhas.
 It is the largest town and administrative headquarters of Perambalur district, as well as Perambalur Taluk (Sub-District).[1]
